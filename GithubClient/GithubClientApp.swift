@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct alermAppApp: App {
+struct GithubClientApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
